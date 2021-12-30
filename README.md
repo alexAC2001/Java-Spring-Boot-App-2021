@@ -33,6 +33,17 @@ The user must input a password that exists in MongoDB. The password must also be
 
 # Dependency Injection
 
+Here is a simple example from my project where I performed Dependency Injection, or specifically constructor injection. in the AlbumDataService constructor, I injected albumsRepository as a parameter. It was then set equal to albumsRepository.
+
+![image](https://user-images.githubusercontent.com/62003762/147713766-245cb8e3-c11d-4a7d-84e6-d8362f10996c.png)
+
+# Test Cases
+
+Test cases were created for this project to ensure the application performed as expected. Heres is an example of a Registration test case.
+
+![image](https://user-images.githubusercontent.com/62003762/147714217-28331a08-32ae-49ac-820d-d0adbf80a566.png)
+
+
 
 
 ****
