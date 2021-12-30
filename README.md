@@ -1,6 +1,6 @@
 # Java Spring Boot Web Application
 
-This was a project I created at Grand Canyon University in fall of 2021. It is a website called Albums4You, where users can view a list of albums, each with their own songs. All albums can be edited, deleted, and new ones can be created. Albums are stored and managed in MongoDB.  
+This was a collaborative project created at Grand Canyon University in fall of 2021. It is a website called Albums4You, where users can view a list of albums, each with their own songs. All albums can be edited, deleted, and new ones can be created. Albums are stored and managed in MongoDB.  
 
 ![image](https://user-images.githubusercontent.com/62003762/147712792-b3b653ec-4c2d-422b-8aa5-9312a5c7eb17.png)
 
@@ -37,13 +37,33 @@ Here is a simple example from my project where I performed Dependency Injection,
 
 ![image](https://user-images.githubusercontent.com/62003762/147713766-245cb8e3-c11d-4a7d-84e6-d8362f10996c.png)
 
+# Diagrams
+
+Creating diagrams for any application is important to plan on what the project will look like and how it will get accomplished.
+****
+Here is a Wireframe Design (User Interface Diagram) I created.
+
+![image](https://user-images.githubusercontent.com/62003762/147714458-0a04a306-50a2-42ed-a75e-6e5e0ee50f0f.png)
+****
+Here is the Sitemap Diagram for the project.
+
+![image](https://user-images.githubusercontent.com/62003762/147714618-2378846c-28cb-49f6-ae3c-517696dec19c.png)
+****
+Here is a snippet of the UML Class Diagram, showing the relationship between Business Services Layer and the Controllers.
+
+![image](https://user-images.githubusercontent.com/62003762/147714733-5fb6537c-fa00-43ce-859d-9015ae3cd825.png)
+****
+Here is the ER Diagram.
+
+![image](https://user-images.githubusercontent.com/62003762/147715031-af8a0054-3679-416e-b7d0-b3c645db6273.png)
+****
+
 # Test Cases
 
 Test cases were created for this project to ensure the application performed as expected. Heres is an example of a Registration test case.
 
 ![image](https://user-images.githubusercontent.com/62003762/147714217-28331a08-32ae-49ac-820d-d0adbf80a566.png)
 
+# Conclusion
 
-
-
-****
+Throughout the process of creating this project, I learned many new technologies, frameworks, and design patterns that helped me become proficient at creating Spring Boot applications Java as the main programming language, and HTML with CSS as the front-end languages. Spring Boot has become one of my favorite frameworks to work in.
