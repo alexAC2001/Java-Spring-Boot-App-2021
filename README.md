@@ -60,9 +60,9 @@ Here is the ER Diagram.
 
 # Test Cases
 
-Test cases were created for this project to ensure the application performed as expected. Heres is an example of a Registration test case.
+Test cases were created for this project to ensure the application performed as expected. Heres are examples of a test cases used for testing REST APIs, Spring Security and custom exceptions.
 
-![image](https://user-images.githubusercontent.com/62003762/147714217-28331a08-32ae-49ac-820d-d0adbf80a566.png)
+![JavaSpringBootTestCaseExamples](https://user-images.githubusercontent.com/62003762/173452802-3dbd4085-5aeb-480a-9de3-f54de89f45a9.png)
 
 # Conclusion
 
